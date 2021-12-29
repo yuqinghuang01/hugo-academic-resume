@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yuqing (Sunny) Huang # Website name
-baseurl: 'http://yuqinghuang.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Yuqing Huang # Website name
+baseurl: 'https://yuqinghuang.com/' # Website URL
+copyright: '© {year} Yuqing Huang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
