@@ -6,17 +6,17 @@ title: "Accurate Summary-based Cardinality Estimation Through the Lens of Cardin
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Jeremy Chen
-- admin
+- Yuqing Huang
 - Mushi Wang
 - Semih Salihoglu
 - Ken Salem
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-05-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
