@@ -37,7 +37,7 @@ abstract: We study two classes of summary-based cardinality estimators that use 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Databases] [Cardinality Estimation]
+# tags: [Databases] [Cardinality Estimation]
 
 # Display this page in the Featured widget?
 featured: false
