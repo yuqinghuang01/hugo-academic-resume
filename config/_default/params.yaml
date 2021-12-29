@@ -23,10 +23,9 @@ twitter: ''
 email: y558huan [at] uwaterloo [dot] ca
 # phone: 888 888 88 88
 address:
-  Montreal, Canada
   # street: 450 Serra Mall
-  # city: Montreal
-  # region: Canada
+  city: Montreal
+  region: Canada
   # postcode: '94305'
   # country: Canada
   # country_code: US
