@@ -5,8 +5,11 @@ title: "Accurate Summary-based Cardinality Estimation Through the Lens of Cardin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jeremy Chen
 - admin
-- Robert Ford
+- Mushi Wang
+- Semih Salihoglu
+- Ken Salem
 
 # Author notes (optional)
 author_notes:
