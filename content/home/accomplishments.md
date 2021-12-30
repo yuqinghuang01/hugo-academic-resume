@@ -57,7 +57,7 @@ item:
   url: "https://uwaterloo.ca/forms/undergraduate-studies/presidents-research-award-application"
 - certificate_url:
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2018-09-01"
   description: ""
   organization: University of Waterloo
   organization_url: https://uwaterloo.ca/
