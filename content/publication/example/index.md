@@ -43,11 +43,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: PDF
-  url: https://arxiv.org/pdf/2105.08878.pdf
+# links:
+# - name: PDF
+#   url: https://arxiv.org/pdf/2105.08878.pdf
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2105.08878.pdf'
 url_code: 'https://github.com/cetechreport/CEExperiments'
 url_dataset: ''
 url_poster: ''
