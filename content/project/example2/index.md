@@ -5,6 +5,8 @@ tags:
 - Computer Vision
 date: "2021-11-01T00:00:00Z"
 
+weight: 2
+
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/yuqinghuang01/segmentation_models.pytorch"
 
