@@ -70,4 +70,4 @@ highlight_name: true
 I am a final year undergraduate student double-majoring in Computer Science and Combinatorics & Optimization at the [University of Waterloo](https://uwaterloo.ca/). My research interests lie in Machine Learning and Computer Vision. I am particularly interested in image segmentation, visual detection, and 3D reconstruction.
 In Fall 2021, I was an undergraduate research assistant advised by Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
