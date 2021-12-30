@@ -29,7 +29,7 @@ experience:
     location: Waterloo, Canada
     date_start: '2021-09-01'
     date_end: '2021-12-31'
-    description: I worked as a research assistant in the field of computer vision, under the supervision of [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/). I focused on combining CNNs with discrete optimization techniques on weakly supervised image segmentation.
+    description: I worked as a research assistant in the field of computer vision, under the supervision of Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/). I focused on combining CNNs with discrete optimization techniques on weakly supervised image segmentation.
 
   - title: Database Management Research Assistant
     company: University of Waterloo
@@ -38,8 +38,7 @@ experience:
     location: Waterloo, Canada
     date_start: '2021-01-01'
     date_end: '2021-11-01'
-    description: I worked as a research assistant in a database management project, under the supervision of [Semih Salihoglu](https://cs.uwaterloo.ca/~ssalihog/). I focused on developing efficient and accurate algorithms for querying graph-structured data. I conducted experiments using Java and SQL on large databases and contributed to major sections of the paper [Accurate Summary-based Cardinality Estimation Through the
-Lens of Cardinality Estimation Graphs](https://arxiv.org/pdf/2105.08878.pdf).
+    description: I worked as a research assistant in a database management project, under the supervision of Prof. [Semih Salihoglu](https://cs.uwaterloo.ca/~ssalihog/). I focused on developing efficient and accurate algorithms for querying graph-structured data. I conducted experiments using Java and SQL on large databases and contributed to major sections of the paper [Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs](https://arxiv.org/pdf/2105.08878.pdf).
 
   - title: Teaching Assistant
     company: University of Waterloo
