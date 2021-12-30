@@ -32,7 +32,7 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: We study two classes of summary-based cardinality estimators that use statistics about input relations and small-size joins in the context of graph database management systems.
+abstract: We study two classes of summary-based cardinality estimators that use statistics about input relations and small-size joins in the context of graph database management systems: (i) optimistic estimators that make uniformity and conditional independence assumptions; and (ii) the recent pessimistic estimators that use information theoretic linear programs.
 
 # Summary. An optional shortened abstract.
 summary: We study two classes of summary-based cardinality estimators that use statistics about input relations and small-size joins in the context of graph database management systems.
