@@ -53,6 +53,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/yuqing-sunny-huang/
 
+<a href="https://clustrmaps.com/site/1blzi"  title="Visit tracker">
+  <img src="//www.clustrmaps.com/map_v2.png?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE&cl=ffffff" />
+</a>
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
