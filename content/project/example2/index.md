@@ -1,5 +1,5 @@
 ---
-title: Boundary Detection
+title: Segmentation-model-based Boundary Detection
 summary: Use PyTorch semantic segmentation models on boundary detection problems.
 tags:
 - Computer Vision
