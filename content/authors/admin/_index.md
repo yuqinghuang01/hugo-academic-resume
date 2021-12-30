@@ -72,5 +72,4 @@ In Fall 2021, I was an undergraduate research assistant advised by Prof. [Olga V
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE"> Visitors
-</script>
+<a href="https://clustrmaps.com/site/1blzi"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE&cl=ffffff" /></a>
