@@ -71,5 +71,3 @@ I am a final year undergraduate student double-majoring in Computer Science and 
 In Fall 2021, I was an undergraduate research assistant advised by Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE">Visitors</script>
