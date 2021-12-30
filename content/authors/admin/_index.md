@@ -28,6 +28,9 @@ education:
   - course: BMath in Computer Science
     institution: University of Waterloo
     year: 2022
+  - course: International Baccalaureate Diploma
+    institution: Lower Canada College
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,4 +70,4 @@ highlight_name: true
 I am a final year undergraduate student double-majoring in Computer Science and Combinatorics & Optimization at the [University of Waterloo](https://uwaterloo.ca/). My research interests lie in Machine Learning and Computer Vision. I am particularly interested in image segmentation, visual detection, and 3D reconstruction.
 In Fall 2021, I was an undergraduate research assistant advised by Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
