@@ -24,6 +24,10 @@ content:
   #   netlify:
   #     # Enable CAPTCHA challenge to reduce spam?
   #     captcha: false
+
+<a href="https://clustrmaps.com/site/1blzi"  title="Visit tracker">
+  <img src="//www.clustrmaps.com/map_v2.png?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE&cl=ffffff" />
+</a>
   
 design:
   columns: '2'
