@@ -29,7 +29,7 @@ experience:
     location: Waterloo, Canada
     date_start: '2021-09-01'
     date_end: '2021-12-31'
-    description: I worked as a research assistant in the field of computer vision, under the supervision of Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/). I focused on combining CNNs with discrete optimization techniques on weakly supervised image segmentation.
+    description: I worked as a research assistant in the field of computer vision, under the supervision of Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/). I focused on combining CNNs with discrete optimization techniques on weakly supervised image segmentation. In addition, I researched on fully convolutional one-stage instance segmentation, using center-ness, boundaries, and graph cuts. I also obtained hands-on experience with various state-of-the-art object detection models.
     
   - title: Database Management Research Assistant
     company: University of Waterloo
