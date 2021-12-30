@@ -8,7 +8,7 @@ date: "2021-09-01T00:00:00Z"
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://colab.research.google.com/drive/1cRAhqgisxK4CGcDCKdbKcx03a5mNSdq9?usp=sharing"
 
 image:
   caption: Semantic Segmentation Results
@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://colab.research.google.com/drive/1cRAhqgisxK4CGcDCKdbKcx03a5mNSdq9?usp=sharing"
 url_pdf: ""
 url_slides: ""
 url_video: ""
