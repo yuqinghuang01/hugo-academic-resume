@@ -11,7 +11,7 @@ weight: 130
 
 title: >- 
   Contact<br />
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE">Visitors</script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s9Dn1GgM-lNnn3uUKQWXshu1O5xcGbPLowML0GjLZlE"></script>
 subtitle:
 
 content:
