@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BMath in Computer Science
+  - course: Bachelor of Mathematics in Computer Science
     institution: University of Waterloo
     year: 2022
   - course: International Baccalaureate Diploma
