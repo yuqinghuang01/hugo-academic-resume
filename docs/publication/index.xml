@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yuqing Huang</title>
+    <link>https://yuqinghuang01.github.io/publication/</link>
+      <atom:link href="https://yuqinghuang01.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Yuqing Huang</copyright><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuqinghuang01.github.io/media/icon_hu6fb370db674eef61579ab7083c87eee9_8761_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://yuqinghuang01.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Filtering</title>
+      <link>https://yuqinghuang01.github.io/publication/example3/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuqinghuang01.github.io/publication/example3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Surgical Planning - Implant Recognition</title>
+      <link>https://yuqinghuang01.github.io/publication/example2/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuqinghuang01.github.io/publication/example2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs</title>
+      <link>https://yuqinghuang01.github.io/publication/example/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuqinghuang01.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

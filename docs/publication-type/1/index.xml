@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yuqing Huang</title>
+    <link>https://yuqinghuang01.github.io/publication-type/1/</link>
+      <atom:link href="https://yuqinghuang01.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Yuqing Huang</copyright><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuqinghuang01.github.io/media/icon_hu6fb370db674eef61579ab7083c87eee9_8761_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://yuqinghuang01.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs</title>
+      <link>https://yuqinghuang01.github.io/publication/example/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuqinghuang01.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
