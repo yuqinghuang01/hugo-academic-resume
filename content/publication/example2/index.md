@@ -1,22 +1,21 @@
 ---
-title: "Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs"
+title: "Advanced Surgical Planning - Implant Recognition"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jeremy Chen
+- Sarper Ertekin
+- Orhun Görkem
 - Yuqing Huang
-- Mushi Wang
-- Semih Salihoglu
-- Ken Salem
+- Laura Roduner
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-19T00:00:00Z"
+date: "2023-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,16 +25,16 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication:
 publication_short:
 
-abstract: We study two classes of summary-based cardinality estimators that use statistics about input relations and small-size joins in the context of graph database management systems. (i) optimistic estimators that make uniformity and conditional independence assumptions; and (ii) the recent pessimistic estimators that use information theoretic linear programs. We begin by addressing the problem of how to make accurate estimates for optimistic estimators. We model these estimators as picking bottom-to-top paths in a cardinality estimation graph (CEG), which contains sub-queries as nodes and weighted edges between sub-queries that represent average degrees. We outline a space of heuristics to make an optimistic estimate in this framework and show that effective heuristics depend on the structure of the input queries. We observe that on acyclic queries and queries with small-size cycles, using the maximum-weight path is an effective technique to address the well known underestimation problem for optimistic estimators. We show that on a large suite of datasets and workloads, the accuracy of such estimates is up to three orders of magnitude more accurate in mean q-error than some prior heuristics that have been proposed in prior work. In contrast, we show that on queries with larger cycles these estimators tend to overestimate, which can partially be addressed by using minimum weight paths and more effectively by using an alternative CEG. We then show that CEGs can also model the recent pessimistic estimators. This surprising result allows us to connect two disparate lines of work on optimistic and pessimistic estimators, adopt an optimization from pessimistic estimators to optimistic ones, and provide insights into the pessimistic estimators, such as showing that there are alternative combinatorial solutions to the linear programs that define them.
+abstract: This paper originates from a student project in cooperation with ETH Zurich and CustomSurg and aims to support surgeons during complex bone fracture surgeries using HoloLens to detect, track and label implants. Modern technology contributes massively to 3D Vision. Therefore, deploying Microsoft HoloLens in surgeries is not far-fetched, although relatively novel. There are many possible applications, while CustomSurg provided us with the opportunity to detect their custom implants and set the groundwork for HoloLens application in surgery, which we approached with off-device computation. YOLOv5 deployed on a server communicates bidirectionally with HoloLens to send a captured image via TCP to the server, which processes the image and sends back information regarding the implant's bounding box and the label. Bounding boxes were obtained using HoloLens spatial mapping and several coordinate transformations. Our model is trained on synthetic data generated in Unity and yields almost perfect results on synthetic images while slightly less accurate for real images due to domain gaps. This problem was addressed and tackled by manually adjusting the training data. Finally, Vuforia is used to compare our model to market solutions. It is also used to additionally track handheld implants which is not yet included in our data set but lacks robustness to sudden movements of the target object.
 
 # Summary. An optional shortened abstract.
-summary: Cardinality estimation plays an important role in generating query plans. In this paper, we study a framework called *cardinality estimation graphs* (CEGs) that allows us to connect two disparate lines of work on optimistic and pessimistic estimators, adopt an optimization from pessimistic estimators to optimistic ones, and provide insights into the pessimistic estimators, such as showing that there are alternative combinatorial solutions to the linear programs that define them.
+summary: This project results from ETH’s and CustomSurg’s joint interest and collaboration in terms of 3D Vision with HoloLens and is realized over a span of 3 months as part of the lecture 3D Vision. In the framework of this project we focus on choosing the correct implant, by recoginizing it in HoloLens, tracing it, detecting the implant’s type and rendering said type with the implant’s bounding box in HoloLens. This way, surgeons can visually confirm that the present implant is truly the implant chosen for a particular surgery.
 
 tags: []
 
@@ -47,8 +46,8 @@ featured: true
 # - name: PDF
 #   url: https://arxiv.org/pdf/2105.08878.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2105.08878.pdf'
-url_code: 'https://github.com/cetechreport/CEExperiments'
+url_pdf: ''
+url_code: 'https://github.com/sarpermelikertekin/3dv-project-advanced-surgical-planning-implant-recognition'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -59,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Jeremy Chen'
+  caption: 'Image credit: CustomSurg'
   focal_point: ""
   preview_only: false
 
