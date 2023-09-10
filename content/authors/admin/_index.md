@@ -27,7 +27,7 @@ education:
   courses:
   - course: Computer Science MSc.
     institution: ETH Zürich
-    year: 2022-
+    year: 2022-Present
   - course: Computer Science BSc.
     institution: University of Waterloo
     year: 2018-2022
