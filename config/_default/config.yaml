@@ -6,6 +6,7 @@
 title: Yuqing Huang # Website name
 baseurl: 'https://yuqinghuang01.github.io' # Website URL
 copyright: '© {year} Yuqing Huang' # Footer text, e.g. '© {year} Me'
+publishDir: 'docs/'
 
 ############################
 ## LANGUAGE
