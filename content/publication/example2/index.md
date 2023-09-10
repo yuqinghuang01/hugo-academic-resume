@@ -43,10 +43,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2105.08878.pdf
+- name: PDF
+  url: uploads/cil_report.pdf
 
-url_pdf: '3dv_report_advanced_surgical_planning.pdf'
+url_pdf: ''
 url_code: 'https://github.com/sarpermelikertekin/3dv-project-advanced-surgical-planning-implant-recognition'
 url_dataset: ''
 url_poster: ''
