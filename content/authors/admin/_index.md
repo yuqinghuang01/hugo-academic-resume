@@ -6,31 +6,34 @@ title: Yuqing Huang
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Undergraduate
+role: Computer Science MSc.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Waterloo
-  url: https://uwaterloo.ca/
+- name: ETH Zürich
+  url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Machine Learning
 - Medical Imaging
+- Machine Learning
+- Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor of Mathematics in Computer Science
+  - course: Computer Science MSc.
+    institution: ETH Zürich
+    year: 2022-
+  - course: Computer Science BSc.
     institution: University of Waterloo
-    year: 2022
+    year: 2018-2022
   - course: International Baccalaureate Diploma
     institution: Lower Canada College
-    year: 2018
+    year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:y558huan@uwaterloo.ca
+  link: mailto:yuqhuang@ethz.ch
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,7 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a final year undergraduate student double-majoring in Computer Science and Combinatorics & Optimization at the [University of Waterloo](https://uwaterloo.ca/). My research interests lie in Machine Learning and Computer Vision. I am particularly interested in image segmentation, visual detection, and 3D reconstruction.
-In Fall 2021, I was an undergraduate research assistant advised by Prof. [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
+Candidate of Computer Science Master’s degree at [ETH Zürich](https://ethz.ch/en.html), majoring in Visual and Interactive Computing. My research interest lies in applying computer vision in healthcare to aid with diagnosis and treatment.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
