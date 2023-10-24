@@ -72,4 +72,4 @@ highlight_name: true
 
 Candidate of Computer Science Master’s degree at [ETH Zürich](https://ethz.ch/en.html), majoring in Visual and Interactive Computing. My research interest lies in applying computer vision in healthcare to aid with diagnosis and treatment.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/HUANG.Yuqing-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
